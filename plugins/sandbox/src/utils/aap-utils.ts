@@ -156,7 +156,10 @@ export const AAPObject: string = `
                "memory":"800Mi"
             }
          }
-      },
+      }, 
+      "metrics":{
+         "disabled":true
+      }, 
       "controller":{
          "extra_settings":[
             {
