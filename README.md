@@ -2,6 +2,10 @@
 
 This plugin provides the new developer sandbox experience for the Red Hat Developer Hub.
 
+## Unmaintained
+
+**This repository is no longer actively maintained. The Developer Sandbox's UI code now lives in https://github.com/codeready-toolchain/sandbox-dashboard.**
+
 ## Configuration
 
 NOTE: the default configuration already uses RH SSO and sandbox production backend.
